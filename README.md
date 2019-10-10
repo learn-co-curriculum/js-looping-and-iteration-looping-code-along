@@ -290,7 +290,7 @@ each loop so that the loop eventually terminates!
 ## Assignment
 
 To get more acquainted with `while`, your task is to write a function,
-`countDown`, that takes in any positive integer and, starting from that number,
+`countdown`, that takes in any positive integer and, starting from that number,
 counts down to zero using `console.log()`. So, when written if you were to run
 
 ```js
