@@ -228,7 +228,7 @@ Notice that we've just moved the initialization and iteration statements &mdash;
 declaring the `i` variable _outside_ the loop, and now incrementing it _inside_
 the loop.
 
-> **CAUTION**: When using `while` loops, it is easy to forget to involve iteration. Leaving iteration out can result in a condition that _always_ evaluate to `true`, causing an infinite loop!
+> **CAUTION**: When using `while` loops, it is easy to forget to involve iteration. Leaving iteration out can result in a condition that _always_ evaluates to `true`, causing an infinite loop!
 
 Because of their design, `while` loops are sometimes used when we _want_
 a loop to run an indeterminate number of times. If we were pseudocoding out a
@@ -318,7 +318,7 @@ After some time programming in JavaScript, writing a `for` loop will come as
 naturally to you as wrapping one gift after another. Just as you slowly become
 comfortable using different words and vocabulary to better express yourself,
 you will become more acquainted with concepts like `for` and `while` until you
-are able to discern the nuanced usage between them.
+are able to discern the nuanced differences in usage between them.
 
 ## Resources
 
